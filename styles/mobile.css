@@ -17,6 +17,9 @@ footer {
 #logo {
   text-align: center;
 }
+#logo>h1>a{
+  color:#fff;
+}
 
 header {
   background-color: #263248;
